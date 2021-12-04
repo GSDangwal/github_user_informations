@@ -45,7 +45,7 @@ function MainPage() {
             <input
               className="form-control me-2"
               type="search"
-              placeholder="Search"
+              placeholder="Enter_User_Name"
               aria-label="Search"
               onChange={(event) => {
                 updateName(event.target.value);
