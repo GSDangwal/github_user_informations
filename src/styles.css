@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list-group-item {
+  background-color: rgb(219, 166, 230);
+  font-family: "Courier New", Courier, monospace;
+}
+.card-body {
+  font: italic small-caps bold 30px/2 cursive;
+  background-color: rgb(219, 166, 230);
+}
